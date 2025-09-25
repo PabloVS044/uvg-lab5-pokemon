@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab5</string>
+
+    <string name="pokemon_list_title">Pokémon List</string>
+    <string name="loading_pokemon">Cargando Pokémon…</string>
+    <string name="error_loading_pokemon">Error: %s</string>
+    <string name="retry_button">Reintentar</string>
+    <string name="no_pokemon_found">No se encontraron Pokémon</string>
+    <string name="pokemon_found">Pokémon encontrados: %d</string>
+    <string name="pokemon_image_description">Pokemon %s</string>
+
+    <string name="pokemon_detail_title">Pokémon Detail</string>
+    <string name="loading_pokemon_detail">Cargando Pokémon…</string>
+    <string name="error_loading_pokemon_detail">Error al cargar el Pokémon</string>
+    <string name="return_to_list">Regresar a la lista</string>
+    <string name="back_button">Regresar</string>
+    <string name="pokemon_views">Vistas del Pokémon:</string>
+    <string name="front_view">Front View</string>
+    <string name="back_view">Back View</string>
+    <string name="shiny_front">Shiny Front</string>
+    <string name="shiny_back">Shiny Back</string>
+    <string name="no_image">No image</string>
+
+    <string name="pokemon_name_format">#%d - %s</string>
+</resources>
