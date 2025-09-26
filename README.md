@@ -89,7 +89,7 @@ Tecnología              Versión            Propósito
 
 bash
 
-git clone https://github.com/tu-usuario/pokemon-explorer.git
+git clone https://github.com/PabloVS044/uvg-lab5-pokemon.git
 
 2.  Abre el proyecto en Android Studio
 
